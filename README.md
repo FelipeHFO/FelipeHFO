@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 Olá! Eu sou o Felipe Oliveira
 
-<!--
-**FelipeHFO/FelipeHFO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assistente Programador** na [@Outcenter](https://outcenter.com.br).
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/felipehf-oliveira">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:felipe.henrique.f.o@gmail.com">
+  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Tecnologias
+
+* ReactJS
+* React Native
+* NextJS
+* NodeJS
+* NestJS
+* Docker
+* Git
