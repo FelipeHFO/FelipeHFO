@@ -14,6 +14,7 @@
 
 * ReactJS
 * React Native
+* TypeScript
 * NextJS
 * NodeJS
 * NestJS
