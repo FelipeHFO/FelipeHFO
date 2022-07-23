@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Felipe Oliveira
 
-**Assistente Programador** na [@Outcenter](https://outcenter.com.br).
+**Assistente Programador** na [@FitCard](https://www.fitcard.com.br/).
 <br>
 <br>
 **Acesse meu [Portfólio!](https://portfolio-felipehfo.vercel.app/)**
