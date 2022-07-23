@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Felipe Oliveira
 
-**Assistente Programador** na [@FitCard](https://www.fitcard.com.br/).
+**Programador Júnior** na [@FitCard](https://www.fitcard.com.br/).
 <br>
 <br>
 **Acesse meu [Portfólio!](https://portfolio-felipehfo.vercel.app/)**
@@ -14,6 +14,10 @@
 
 ### 🔧 Tecnologias
 
+* C#
+* ASP.NET
+* VB.NET
+* .NET
 * ReactJS
 * React Native
 * TypeScript
