@@ -24,5 +24,6 @@
 * NextJS
 * NodeJS
 * NestJS
+* SQL
 * Docker
 * Git
